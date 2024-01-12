@@ -1,0 +1,18 @@
+.movies {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .title {
+    text-align: center;
+    margin: 30px;
+  }
+  
+  button {
+    background-color: #ed6a5a;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+  }
