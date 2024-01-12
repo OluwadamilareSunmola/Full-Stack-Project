@@ -4,7 +4,7 @@ To edit the instructions with a first-person focus and emphasize that it is a pe
 
 # Instructions
 
-In my journey through previous workshops, I developed both front-end and back-end applications for a Movie Picker app. In my exploration of [React 101](https://github.com/OluwadamilareSunmola/React-101), I created a front-end application using multiple components to craft a Movie Picker UI. This initial application utilized an in-memory `data.js` file as its data source.
+In my journey through previous workshops, I developed both front-end and back-end applications for a Movie Picker app. In my exploration of [React 101](https://github.com/OluwadamilareSunmola/Full-Stack-Project/tree/1683097a84374b3fcbb2e824be58f38ee5a70a25/folder), I created a front-end application using multiple components to craft a Movie Picker UI. This initial application utilized an in-memory `data.js` file as its data source.
 
 During my time with [API 101](https://github.com/OluwadamilareSunmola/Full-Stack-Project/tree/master/APIs-101-main), I ventured into creating a RESTful backend API. This API offered several endpoints to retrieve, create, and update Movie data. I made sure this Movies Service persisted movie data in a database and provided CRUD endpoints for manipulating Movies.
 
